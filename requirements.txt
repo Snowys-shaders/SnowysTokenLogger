@@ -1,6 +1,0 @@
-requests
-psutil
-pypiwin32
-pycryptodome
-pyinstaller
-pillow
